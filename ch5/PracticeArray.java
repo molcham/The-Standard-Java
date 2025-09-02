@@ -1,7 +1,7 @@
 package ch5;
 
 public class PracticeArray {
-    public public static void main(String[] args) {
+    public static void main(String[] args) {
         int[] score =new int[5];
         int k =1;
 
